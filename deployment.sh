@@ -1,3 +1,4 @@
+systemctl restart postgresql
 #Deployment File
 BASE_PATH="/root/web/odoo"
 cd ${BASE_PATH}

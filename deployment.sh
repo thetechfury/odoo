@@ -2,7 +2,7 @@
 BASE_PATH="/root/web/odoo"
 cd ${BASE_PATH}
 #activate Virtual Env
-source odoo-17-env/bin/activate/
+source ${BASE_PATH}/odoo-17-env/bin/activate/
 # Pull Source code
 git pull
 
